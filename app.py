@@ -1,1 +1,1 @@
-print("Hello, World! ..ds")
+print("Hello, World! .s")
