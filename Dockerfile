@@ -8,7 +8,6 @@ WORKDIR /app
 COPY app.py .
 
 # Expose port 8080
-EXPOSE 8080
-
+EXPOSE 80800
 # Set the command to run the application
 CMD ["python", "app.py"]
