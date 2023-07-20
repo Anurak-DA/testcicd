@@ -1,1 +1,1 @@
-print("Hellv sawarudo tokio  o, World! 50")
+print("Hellv sawarudo tokio tomae  o, World! 50")
