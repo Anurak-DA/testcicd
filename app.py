@@ -1,1 +1,1 @@
-print("Hellv sawardudo tokio tomae jojo ora ora wryyyo Wordsld!")
+print("Hellv sawardudo tokio tomae joo ora ora wryyyo Wordsld!")
