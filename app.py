@@ -1,1 +1,1 @@
-print("Hellv sawardudo tokio tomae joo ora ora oea  aaaaaaaaaadssdsaaaa!")
+print("Hellv sawardudo tokio tomae joo ora ora oea  !")
